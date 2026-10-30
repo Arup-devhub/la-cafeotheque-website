@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <circle cx="32" cy="32" r="30" fill="#30231F" stroke="#C69255" stroke-width="2"/>
+  <!-- Elegant Stylized Coffee Cup and Steam -->
+  <path d="M20 28H42C42 37.5 35 43 28 43C23 43 20 38.5 20 34V28Z" fill="#F5F0E8" stroke="#C69255" stroke-width="1.5"/>
+  <path d="M42 31H46C48.2 31 50 32.8 50 35C50 37.2 48.2 39 46 39H41" stroke="#F5F0E8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M26 22C26 22 25 18 28 16" stroke="#C69255" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 21C32 21 31 16 34 14" stroke="#C69255" stroke-width="2" stroke-linecap="round"/>
+  <path d="M16 48H44" stroke="#C69255" stroke-width="2" stroke-linecap="round"/>
+</svg>
